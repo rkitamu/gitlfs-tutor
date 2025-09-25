@@ -1,3 +1,4 @@
 *.jpg filter=lfs diff=lfs merge=lfs -text
 *.tres filter=lfs diff=lfs merge=lfs -text
 *.ares filter=lfs diff=lfs merge=lfs -text
+*.bres filter=lfs diff=lfs merge=lfs -text
